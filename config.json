@@ -1,0 +1,20 @@
+{
+    "ownerNumber": "6283805972328@s.whatsapp.net", 
+    "ownerName": "rieee store", 
+    "botName": "RIEEE BOTZ",
+    "footer": "© rieee store | 2022", 
+    "sessionName": "session", 
+    "pathimg": "./media/logo.jpg", 
+    "pathqris": "./media/qris.jpg",
+    "group": "https://chat.whatsapp.com/Cz1dA83MmmpLl89PWdjsFj",
+    "yootube": "https://youtube.com/channel/UC7qMVLsXuX3USOAkgSRw00g",
+    "igCookie": "csrftoken=Yj80cFn0zMn6svtMdvKTBcMzMwWPsQzx; sessionid=53767158422%3A4hXJOZ2NBfcF2f%3A10; ds_user_id=53767158422;",
+ 
+    "limitCount": 100,
+    "limitGame": 35,
+    "gamewaktu": 90,
+    "sticker": {
+        "packname": "© Store",
+        "author": "rieee store"
+    }
+}
